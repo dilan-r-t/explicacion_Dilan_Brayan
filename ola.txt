@@ -1,0 +1,3 @@
+Altura de las secciones moradas: Se ajustó la altura para que cada una ocupe un tercio del espacio restante entre la sección roja y la sección naranja.
+Altura de las secciones verde y azul: Se utilizó calc() para asegurar que las alturas se ajusten correctamente teniendo en cuenta el espacio ocupado por las secciones roja y naranja.
+Posiciones relativas: Las secciones moradas fueron posicionadas utilizando calc() para que se distribuyan uniformemente en el espacio disponible.
