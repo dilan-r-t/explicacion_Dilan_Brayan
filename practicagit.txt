@@ -1,0 +1,13 @@
+git clone copia la carpeta del github
+
+git init inicia los cambios que se va a hacer en el archivo
+
+git status miestra si hay cambios dentro de la carpeta 
+
+git add incluye los nuevos archivos archivos de la carpeta
+
+git commit guarda cambios especificos mediante un comentario 
+
+gi push envia los cambios al servidor locar para que otrso los puedan ver 
+
+git pull actualiza los cambios que se han desarrollado y lo suben al repositorio githun
