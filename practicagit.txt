@@ -11,3 +11,5 @@ git commit guarda cambios especificos mediante un comentario
 gi push envia los cambios al servidor locar para que otrso los puedan ver 
 
 git pull actualiza los cambios que se han desarrollado y lo suben al repositorio githun
+
+git branch: muestra ramas que ya existen, y tambien puede crear ramas 
